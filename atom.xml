@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://philhappy.github.io/</id>
+    <title>Electric-Garden</title>
+    <updated>2023-01-24T13:32:56.598Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://philhappy.github.io/"/>
+    <link rel="self" href="https://philhappy.github.io/atom.xml"/>
+    <subtitle>复行数十步</subtitle>
+    <logo>https://philhappy.github.io/images/avatar.png</logo>
+    <icon>https://philhappy.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Electric-Garden</rights>
+    <entry>
+        <title type="html"><![CDATA[欢迎来到电气花园]]></title>
+        <id>https://philhappy.github.io/post/Electric-Garden/</id>
+        <link href="https://philhappy.github.io/post/Electric-Garden/">
+        </link>
+        <updated>2023-01-24T12:20:33.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="️electric-garden">⚡️Electric-Garden🌻</h2>
+<pre><code>    花园里有以下内容：
+      💡电气笔记：电气相关的学习记录
+      🚀效率工具：各种有趣好玩的软件
+      🌅生活小计：生活碎片记录和分享
+    希望大家逛的开心~
+      😘 Enjoy~
+</code></pre>
+]]></content>
+    </entry>
+</feed>
